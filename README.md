@@ -2,7 +2,12 @@
   <img src="/img/pngegg.png" alt="Banner" title="Banner">
 </div>
 <div align="center">
-  ![Static Badge](https://img.shields.io/badge/HTML-_?style=flat&logo=html5&logoColor=%23ffffff&labelColor=%23222222&color=%23ffffff)
+  
+![Static Badge](https://img.shields.io/badge/HTML-_?style=flat&logo=html5&logoColor=%23ffffff&labelColor=%23222222&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/VSCode-red?style=flat&logo=visualstudiocode&logoColor=%23007ACC&labelColor=%23222222&color=%23555555)
+
+
+
 </div>
 
 # 💻 Criando Uma Página Web Utilizando as Tags Aprendidas 
